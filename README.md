@@ -1,6 +1,6 @@
-![HenryBanner](Images\Data_logo.png)
+![HenryBanner](Images/Data_logo.png)
 
-# 📡 Proyecto Individual Nº2: Telecomunicaciones - Federico Piparo📡
+# 📡 Proyecto Individual Nº2: Data Analyst - Federico Piparo📡
 
 ----
 
