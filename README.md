@@ -14,7 +14,11 @@ Una empresa lider en el sector de telecomunicaciones, *Henry Telecom* necesita u
 ## 📋 Propuesta de Trabajo
 
 ### EDA (Exploratory Data Analysis)
-Este es el primer punto a 
+Este es el primer punto a desarrollar, y con este surgen dudas como "¿como debo plantear el análisis?" ¿debo analizar todas las tablas o solo las que yo considere importantes? decidi dividir el análisis en dos partes:
+
+`Análisis Básicos y Generales:` Incluyen la identificación de valores nulos, duplicados y outliers en todas las tablas obtenidas de "internet". Estos aspectos son los que se especifican en la rúbrica del proyecto.
+
+`Análisis Específicos:` Varían según cada tabla y se enfocan en detalles particulares de los datos.
 
 ### Dashboard
 El dashboard debe ser funcional e interactivo, permitiendo explorar los datos en detalle a través de filtros. La presentación de los datos debe ser clara y estética, utilizando gráficos coherentes.
@@ -43,4 +47,4 @@ El KPI propuesto es aumentar en un 2% el acceso al servicio de internet por prov
 
 ````
 
-![HenryBanner](Images\MUNDOHENRY-1.jpg)
+![HenryBanner](Images/MUNDOHENRY-1.jpg)
