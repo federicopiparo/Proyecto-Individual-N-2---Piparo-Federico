@@ -34,15 +34,17 @@ El KPI propuesto es aumentar en un 2% el acceso al servicio de internet por prov
 ---  
 
 ```plaintext
-├── LABS 2
-│   ├── raw_data.csv
-│   └── processed_data.csv
-├── notebooks
+Proyecto-Individual-N-2---Piparo-Federico
+│
+├── Images 
+│   ├── ...
+│   └── ...
+├── proyecto individual EDA -Federico piapro
 │   ├── EDA.ipynb
-│   └── analysis.ipynb
-├── src
-│   ├── data_cleaning.py
-│   └── data_analysis.py
+│   └── Dashboard.pblx
+├── tablas
+│   ├── Internet.xlsx
+│   └── ....
 └── README.md 
 
 ````
