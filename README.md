@@ -29,7 +29,15 @@ El análisis no se limita a la creación de gráficos, sino también a las concl
 
 
 ### KPIs
-El KPI propuesto es aumentar en un 2% el acceso al servicio de internet por provincia para el próximo trimestre. Además, debes proponer y graficar dos KPIs relevantes para la temática.
+El KPI propuesto es aumentar en un 2% el acceso al servicio de internet por provincia para el próximo trimestre. Además, debes proponer y graficar dos KPIs relevantes para la temática. 
+
+
+# KPI 2 + conclusión 
+kpi 2.Crecimiento de Ingresos Anual: 
+
+Mide el cambio porcentual en los ingresos de un año en comparación con el año anterior. 
+
+basados en este análisis concluimos que el año 2023 fue el mejor de la histeoria en cuanto a crecimiento, al menos en materia de ingresos, y el secor en la ultima decada no ha parado de crecer, por lo que se espera que cuanto menos un crecimiento a lo largo del país para este 2024 y por lo visto en el primer trimestre de este último, se espera que sea un gran año de igual manera. Como ultimas palabras en cuanto al análisis podemos concluir que en general invertir en "internet" es apostar al caballo ganador. Obviamente teniendo en cuenta las tecnologías que están creciendo y evitando las que desde hace años disminuyen sus accesos (como es el caso de ADSL)
 
 ## 🗂 Estructura del Proyecto
 
