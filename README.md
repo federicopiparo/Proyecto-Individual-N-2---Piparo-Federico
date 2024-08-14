@@ -25,7 +25,7 @@ El dashboard debe ser funcional e interactivo, permitiendo explorar los datos en
 Fue uno de los mayores desafíos en el trabajo, en este caso realizado con PowerBI , cuenta con información general sobre diferentes campos analizados en el EDA, divido principalmente por años para poder ver la evolucion en las diferentes categorías. 
 
 ### Análisis ⚠️
-El análisis no se limita a la creación de gráficos, sino también a las conclusiones derivadas de ellos.
+El análisis no se limita a la creación de gráficos, sino también a las conclusiones derivadas de ellos. A lo largo de nuestro EDA se han escrito conclusiones para cada uno de los análisis realizados en las diferentes subcategorías. 
 
 
 ### KPIs
