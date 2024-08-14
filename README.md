@@ -18,13 +18,15 @@ Este es el primer punto a desarrollar, y con este surgen dudas como "¿como debo
 
 `Análisis Básicos y Generales:` Incluyen la identificación de valores nulos, duplicados y outliers en todas las tablas obtenidas de "internet". Estos aspectos son los que se especifican en la rúbrica del proyecto.
 
-`Análisis Específicos:` Varían según cada tabla y se enfocan en detalles particulares de los datos.
+`Análisis Específicos:` Varían según cada tabla y se enfocan en detalles particulares de los datos. En este caso este mismo se divide en: Velocidad -TEcnologías - ingresos
 
 ### Dashboard
 El dashboard debe ser funcional e interactivo, permitiendo explorar los datos en detalle a través de filtros. La presentación de los datos debe ser clara y estética, utilizando gráficos coherentes.
+Fue uno de los mayores desafíos en el trabajo, en este caso realizado con PowerBI , cuenta con información general sobre diferentes campos analizados en el EDA, divido principalmente por años para poder ver la evolucion en las diferentes categorías. 
 
 ### Análisis ⚠️
 El análisis no se limita a la creación de gráficos, sino también a las conclusiones derivadas de ellos.
+
 
 ### KPIs
 El KPI propuesto es aumentar en un 2% el acceso al servicio de internet por provincia para el próximo trimestre. Además, debes proponer y graficar dos KPIs relevantes para la temática.
