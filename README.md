@@ -59,4 +59,11 @@ Proyecto-Individual-N-2---Piparo-Federico
 
 ````
 
+## capturas del Dashboard:
+![Dasboard1](Images\Dashboard1.PNG)
+![Dasboard1](Images\Dashboard2.PNG)
+
+---  
+
+
 ![HenryBanner](Images/MUNDOHENRY-1.jpg)
